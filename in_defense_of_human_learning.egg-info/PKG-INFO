@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: in-defense-of-human-learning
+Version: 0.0.0
+Requires-Python: ~=3.12
+License-File: LICENSE
+Requires-Dist: jupyter
+Requires-Dist: ipykernel
+Requires-Dist: nbconvert
+Requires-Dist: notebook
+Requires-Dist: pre-commit
+Dynamic: license-file

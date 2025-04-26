@@ -1,0 +1,5 @@
+jupyter
+ipykernel
+nbconvert
+notebook
+pre-commit

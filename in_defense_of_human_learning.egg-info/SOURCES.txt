@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+in_defense_of_human_learning.egg-info/PKG-INFO
+in_defense_of_human_learning.egg-info/SOURCES.txt
+in_defense_of_human_learning.egg-info/dependency_links.txt
+in_defense_of_human_learning.egg-info/requires.txt
+in_defense_of_human_learning.egg-info/top_level.txt
